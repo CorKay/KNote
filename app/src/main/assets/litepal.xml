@@ -1,0 +1,8 @@
+<litepal>
+    <dbname value="knote"></dbname>
+    <version value="2"/>
+
+    <list>
+        <mapping class="com.corkay.knote.bean.Note"/>
+    </list>
+</litepal>
